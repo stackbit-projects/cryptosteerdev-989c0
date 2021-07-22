@@ -10,7 +10,7 @@ sections:
       programación Python y JavaScript. Estaré compartiendo información y
       reflexiones en mi blog personal.
     actions:
-      - label: Let's talk
+      - label: Hablemos
         url: /contact
         style: button
   - section_id: latest-projects
