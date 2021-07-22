@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Jesús Steer.'
+    title: 'Hola, soy Jesús Steer.'
     content: >
       Soy un apasionado por la tecnología Blockchain y los lenguajes de
       programación Python y JavaScript. Estaré compartiendo información y
