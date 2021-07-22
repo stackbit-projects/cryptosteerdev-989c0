@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Jesús Steer.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Soy un apasionado por la tecnología Blockchain y los lenguajes de
+      programación Python y JavaScript. Estaré compartiendo información y
+      reflexiones en mi blog personal.
     actions:
       - label: Let's talk
         url: /contact
